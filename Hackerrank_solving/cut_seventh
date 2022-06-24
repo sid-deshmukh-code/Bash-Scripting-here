@@ -1,1 +1,2 @@
 cut -d' ' -f4
+# cut command with delimeter
