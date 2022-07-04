@@ -1,7 +1,7 @@
 # Taking input
 read x
 read y
-
+# use echo to print output
 # sum
 Sum=$((x+y))  
 echo "$Sum"  
