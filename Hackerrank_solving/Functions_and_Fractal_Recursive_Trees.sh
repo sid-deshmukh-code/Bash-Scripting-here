@@ -1,3 +1,6 @@
+#Not that important topic but ya we can test our knowledge by attempting the problem
+# BTW I copied this problem from internet 🥲
+
 read n
 
 print () {
